@@ -2,15 +2,13 @@
   width: 30vw;
   height: 100vh;
 
-  h1{
-    font-family: Georgia, sans-serif;
-    color: aliceblue;
-  }
+  align-items: center;
+  display: flex;
+  flex-direction: column;
 
-  h3{
-    font-family: Georgia, sans-serif;
-    color: aliceblue;
-  }
+  font-family: Georgia, sans-serif;
+  color: aliceblue;
+  text-align: center;
 }
 
 #siteLogo{
