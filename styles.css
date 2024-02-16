@@ -13,11 +13,6 @@
   }
 }
 
-.divider{
-  width: 100vw;
-  height: 25vh;
-}
-
 #siteLogo{
   width: 100%;
 }
@@ -39,7 +34,7 @@ body {
 }
 
 .card {
-  background-color:blanchedalmond;
+  background-color: antiquewhite;
   border-radius: 5px;
   height: min-content;
   width: min-content;
@@ -66,5 +61,10 @@ h4{
     align-items: center;
     flex-direction: column;
     display: flex;
+  }
+
+  #divider{
+    width: 90%;
+    height: 1%;
   }
 }
