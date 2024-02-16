@@ -13,6 +13,11 @@
   }
 }
 
+.divider{
+  width: 100vw;
+  height: 25vh;
+}
+
 #siteLogo{
   width: 100%;
 }
